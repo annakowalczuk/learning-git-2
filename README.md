@@ -1,1 +1,1 @@
-# learning-git-2
+# https://annakowalczuk.github.io/learning-git-2/
